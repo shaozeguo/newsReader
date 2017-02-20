@@ -6,8 +6,4 @@
 //  Copyright © 2017年 GSZ. All rights reserved.
 //
 
-#ifndef Defines_h
-#define Defines_h
-
-
-#endif /* Defines_h */
+// 缺少宏定义
